@@ -1,0 +1,16 @@
+{
+    "name": "chara-selfbot",
+    "version": "1.0.0",
+    "description": "Discord selfbot bridge for Chara Lang",
+    "main": "bridge.js",
+    "dependencies": {
+        "discord.js-selfbot-v13": "^3.0.0"
+    },
+    "keywords": [
+        "chara",
+        "discord",
+        "selfbot"
+    ],
+    "author": "Clypus",
+    "license": "MIT"
+}
