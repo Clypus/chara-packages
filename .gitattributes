@@ -1,0 +1,8 @@
+# GitHub Linguist - Chara Language Detection
+# This tells GitHub to recognize .ch files as Chara
+*.ch linguist-language=Chara
+*.ch linguist-detectable=true
+
+# Ignore generated files
+*.o linguist-generated=true
+build/* linguist-generated=true
